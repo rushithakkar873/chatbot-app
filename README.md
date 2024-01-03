@@ -12,4 +12,3 @@ Node Typescript setup
 
 
 
-OpenAI api key - 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
