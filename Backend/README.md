@@ -11,4 +11,6 @@ Node Typescript setup
 9. use concurrently module for running command concuurently
 
 
-
+Steps to resolve cors error
+1. install cors package
+2. Enable CORS for all routes and origins / Specify Allowed Origins
